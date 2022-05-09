@@ -32,3 +32,5 @@ This example will execute the following steps:
  
 ## Exemplary results
 <img src="https://user-images.githubusercontent.com/105121035/167492818-c9f2ab0e-e16d-4e67-9bd2-7a665ef3bc99.png" width="256" height="600" />
+
+<sub> Image sources: 1.jpg https://www.sciencedirect.com/science/article/pii/S1078588413007958, 2.png https://www.youtube.com/watch?v=SoqLOKjPZ70&t=9s Timestamp 1:43, 3.png https://www.youtube.com/watch?v=SoqLOKjPZ70&t=9s Timestamp 1:49, 4.png https://www.youtube.com/watch?v=4JTq2gyW5Nw&t=273s Timestamp 3:23, 5.png https://www.youtube.com/watch?v=4JTq2gyW5Nw&t=273s Timestamp 3:24, 6.png https://www.youtube.com/watch?v=4JTq2gyW5Nw&t=273s Timestamp 3:40 <sub>
