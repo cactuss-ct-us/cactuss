@@ -31,5 +31,4 @@ This example will execute the following steps:
  
  
 ## Exemplary results
-<img src="https://user-images.githubusercontent.com/105121035/167472824-bab7db1c-cbcf-4fa1-a38d-09b68adf6a38.png" width="256" height="800" />
-
+<img src="https://user-images.githubusercontent.com/105121035/167492818-c9f2ab0e-e16d-4e67-9bd2-7a665ef3bc99.png" width="256" height="600" />
